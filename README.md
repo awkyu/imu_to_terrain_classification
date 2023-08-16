@@ -7,8 +7,8 @@ Data collection was done as indicated in their article and the IMU data as well 
 
 You can download the full report, datasets, and code below.
 
-[Link to final CNN Model](https://drive.google.com/file/d/14aRelOQVOhwwMXOUBSe2YlWJlt4Z4LUV/view?usp=drive_link)
+[Link to final CNN Model](https://drive.google.com/file/d/14aRelOQVOhwwMXOUBSe2YlWJlt4Z4LUV/view?usp=drive_link).
 
-[Link to featurized data](https://drive.google.com/file/d/1pms9gk0EcfITO89gjO6O24IaMkYP7RZE/view?usp=drive_link)
+[Link to featurized data](https://drive.google.com/file/d/1pms9gk0EcfITO89gjO6O24IaMkYP7RZE/view?usp=drive_link).
 
-[Link to raw datasets](https://drive.google.com/file/d/1jBFhAh7bdigv9hfjBM3Pu5CmMAt4q6Hl/view?usp=drive_link)
+[Link to raw datasets](https://drive.google.com/file/d/1jBFhAh7bdigv9hfjBM3Pu5CmMAt4q6Hl/view?usp=drive_link).

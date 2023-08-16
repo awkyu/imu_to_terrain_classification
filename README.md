@@ -6,3 +6,7 @@ One avenue of prosthesis control that still needs to be improved on is its capab
 Data collection was done as indicated in their article and the IMU data as well as terrain was provided to us. A Deep Convolutional Neural Network was developed as our final model with the architecture shown below. The dropout layers were added between the 2D convolutional and max pooling layers to prevent overfitting. This model achieved an accuracy of 80.9% on our validation data and a Validation F1 Score of 0.922191.
 
 You can download the full report, datasets, and code below.
+
+[Link to final CNN Model](https://drive.google.com/file/d/14aRelOQVOhwwMXOUBSe2YlWJlt4Z4LUV/view?usp=drive_link)
+[Link to featurized data](https://drive.google.com/file/d/1pms9gk0EcfITO89gjO6O24IaMkYP7RZE/view?usp=drive_link)
+[Link to raw datasets](https://drive.google.com/file/d/1jBFhAh7bdigv9hfjBM3Pu5CmMAt4q6Hl/view?usp=drive_link)
